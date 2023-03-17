@@ -2,7 +2,7 @@
 
  Google collab pro was used to train the models on GPU
 
-**Dataset: **
+**Dataset:**
 
 1. Under Datasets, download all the training, validation, testing as well as face annotations from the below link 
 
